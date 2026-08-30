@@ -1,18 +1,69 @@
-# DevOps Career Portfolio — Carlos Santoyo
+# DevOps Career Portfolio
 
 Welcome to my DevOps learning and professional portfolio.
 
-I am an IT professional with experience in Application Support, IT Operations, Infrastructure, Incident Management, Monitoring, and Enterprise Support transitioning into DevOps Engineering.
+I am an IT professional with experience in Application Support,
+IT Operations, Infrastructure, Incident Management, Monitoring,
+and Enterprise Support.
 
-## Roadmap & Projects
+This repository documents my journey toward becoming a DevOps Engineer.
 
-- [x] **01 - Git Fundamentals** (In Progress)
-- [ ] **02 - Linux Fundamentals**
-- [ ] **03 - Bash Automation**
-- [ ] **04 - Python Automation**
-- [ ] **05 - CI/CD Pipelines**
-- [ ] **06 - Docker & Containerization**
-- [ ] **07 - Infrastructure as Code (Terraform)**
-- [ ] **08 - Configuration Management (Ansible)**
-- [ ] **09 - Kubernetes Orchestration**
-- [ ] **10 - DevOps Capstone Project**
+## Current Learning Path
+
+- Git & Version Control
+- Linux
+- Bash Scripting
+- Python
+- Networking
+- CI/CD
+- Jenkins
+- GitHub Actions
+- Docker
+- Kubernetes
+- Ansible
+- Terraform
+- AWS
+- Azure
+- Monitoring & Observability
+
+## Portfolio Projects
+
+### 01 - Git Fundamentals
+In progress
+
+### 02 - Linux Fundamentals
+Planned
+
+### 03 - Bash Automation
+Planned
+
+### 04 - Python Automation
+Planned
+
+### 05 - CI/CD
+Planned
+
+### 06 - Docker
+Planned
+
+### 07 - Infrastructure as Code
+Planned
+
+### 08 - Configuration Management
+Planned
+
+### 09 - Kubernetes
+Planned
+
+### 10 - DevOps Capstone
+Planned
+
+---
+
+## Professional Background
+
+Application Support and IT Operations professional transitioning into DevOps Engineering with experience supporting enterprise applications, production environments, incident management, monitoring, troubleshooting, and infrastructure operations.
+
+## Goal
+
+Build practical skills and real-world projects involving automation, cloud infrastructure, CI/CD, containerization, Infrastructure as Code, and production reliability.
